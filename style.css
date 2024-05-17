@@ -1,0 +1,15 @@
+div{
+    background-color: rgb(144, 144, 144);
+    border-radius:100%;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    align-content: center;
+    font-size: x-large;
+    box-shadow: 
+    inset -30px -40px 70px black,
+    70px 70px 30px black,
+    inset 20px 30px 30px rgb(255, 255, 255);
+    padding: 20px;
+    border:none;
+}
